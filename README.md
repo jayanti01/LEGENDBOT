@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/jayanti01/LEGENDBOT)
 
 
 <h1 align="center">
@@ -42,7 +42,7 @@
 
 <h3> Dєρℓογ το нєяοκυ </h3>
 
-- Click Here :- [main repo](https://github.com/LEGEND-AI/LEGENDBOT)
+- Click Here :- [main repo](https://github.com/jayanti01/LEGENDBOT)
 - Fork The Main Repo.
 - Go to Setting Of Repo.
 - Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
